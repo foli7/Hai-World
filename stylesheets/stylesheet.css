@@ -58,7 +58,8 @@ a {
   text-align: center;
   background-color: #f90;
   background-image: url(http://www.dairyqueen.com/PageFiles/316/dq-menu-food_double_cheeseburger_02.png?width=&height=810); 
- }
+background:no-repeat;
+}
 /*edited the background image*/
 
 @media screen and (min-width: 64em) {
