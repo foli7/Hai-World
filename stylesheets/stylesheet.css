@@ -59,6 +59,7 @@ a {
   background-color: #f90;
   background-image: url(../hpdefault.jpg); 
   background:no-repeat;
+  background-size: cover;
 }
 /*edited the background image*/
 
