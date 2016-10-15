@@ -57,8 +57,9 @@ a {
   color: #f00;/* change the color*/
   text-align: center;
   background-color: #f90;
+ 
   background-image: url(../hpdefault.jpg); 
-  background:no-repeat;
+  background-repeat:no-repeat;
   background-size: cover;
 }
 /*edited the background image*/
